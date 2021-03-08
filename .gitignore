@@ -1,0 +1,9 @@
+.vscode/
+bower_components/
+node_modules/
+database/
+
+
+#Exclude tsc generated files
+js/*.map
+js/ts.js
